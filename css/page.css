@@ -1,0 +1,421 @@
+
+section{
+    text-align: center;
+    margin-top: -9px;
+}
+h1{
+    font-size: 70px;
+    color: yellow;
+    margin-left: 35%;
+}
+h2{
+    font-size: 60px;
+    color: red;
+}
+h3{
+    color: rgb(226, 49, 17);
+    font-weight: 900;
+    font-size: 20px;
+}
+
+section p{
+    margin-top: 10px;
+    color: black;
+
+}
+ul a{
+    margin-left: 90%;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+ul a:hover{
+    color: blue;
+}
+svg{
+    margin-left: 40%;
+}
+nav{
+    border: 10px double crimson;
+}
+h4{
+    text-align: center;
+    margin-top: 20px;
+    background-color: gray;
+    font-size: 40px;
+    font-weight: 900;
+    color: red;
+
+}
+ol{
+    margin-top: 100px;
+}
+.two{
+   background: url(b.jpg); 
+   width: 200px;
+   height: 200px;
+   width: 240px;
+}
+   
+
+.three{
+    background: url(c.jpg);
+    width: 240px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 300px;
+}
+.four{
+    background: url(d.jpg);
+    width: 200px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 600px;
+}
+.five{
+    background: url(e.jpg);
+    width: 200px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 900px;
+}
+.a a{
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.a a:hover{
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+}
+.a {
+    margin-top: 40px;
+}
+.b a{
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: -60px;
+    margin-left: 350px;
+}
+.b{
+  margin-top: -11px;
+}
+.b a:hover{
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+}
+
+.c a{
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: -420px;
+    margin-left: 700px;
+}
+.c a:hover{
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+}
+.c{
+    margin-top: -35px;
+}
+.d a{
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: -40px;
+    margin-left: 1000px;
+}
+.d a:hover{
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+}
+.d{
+    margin-top: -20px;
+}
+
+h5{
+    margin-top: 40px;
+    background-color: rgb(238, 113, 113);
+    color: blue;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.coffe{
+    margin-top: 40px;
+    color: blue;
+    background-color: blanchedalmond;
+    font-size: 30px;
+}
+
+.if{
+    background: url(f.jpg); 
+    width: 200px;
+    height: 200px;
+    width: 240px;
+ }
+    
+ 
+ .you{
+     background: url(g.jpg);
+     width: 240px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 300px;
+ }
+ .like{
+     background: url(h.png);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 600px;
+ }
+ .it{
+     background: url(i.jpg);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 900px;
+ }
+
+ .let{
+    background: url(j.jpg); 
+    width: 200px;
+    height: 200px;
+    width: 240px;
+ }
+    
+ 
+ .me{
+     background: url(k.jpg);
+     width: 240px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 300px;
+ }
+ .see{
+     background: url(l.png);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 600px;
+ }
+ .you{
+     background: url(m.jpg);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 900px;
+ }
+
+
+ .wa{
+    background: url(n.jpg); 
+    width: 200px;
+    height: 200px;
+    width: 240px;
+ }
+    
+ 
+ .ka{
+     background: url(o.jpg);
+     width: 240px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 300px;
+ }
+ .nn{
+     background: url(p.png);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 600px;
+ }
+ .da{
+     background: url(q.jpg);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 900px;
+ }
+
+ video{
+    margin-top: 100px;
+ }
+
+ .le{
+    background: url(r.jpg); 
+    width: 200px;
+    height: 200px;
+    width: 240px;
+ }
+    
+ 
+ .ba{
+     background: url(s.jpg);
+     width: 240px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 300px;
+ }
+ .ne{
+     background: url(t.png);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 600px;
+ }
+ .ww{
+     background: url(u.jpg);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 900px;
+ }
+
+
+ .bo{
+    background: url(v.jpg); 
+    width: 200px;
+    height: 200px;
+    width: 240px;
+ }
+    
+ 
+ .ok{
+     background: url(y.jpg);
+     width: 240px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 300px;
+ }
+ .lo{
+     background: url(x.jpg);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 600px;
+ }
+ .ok{
+     background: url(z.jpg);
+     width: 200px;
+     height: 200px;
+     margin-top: -200px;
+     margin-left: 900px;
+ }
+
+ .bereket{
+    margin-top: 200px;
+    background-image: url(bereket.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 500px;
+    color: red;
+ }
+
+
+ .abel{
+    background: url(abel.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 500px;
+    color: red;
+ }
+
+ .beza{
+    background: url(buy.jpg);
+ }
+
+
+ form{
+    margin-top: 50px;
+    color: blue;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    width: 400px;
+    height: 600px;
+    border-color: blue;
+    border-radius: 10px;
+    background-color: antiquewhite;
+
+
+
+ }
+
+ form input {
+    padding: 10px;
+    margin: 10px;
+
+
+
+ }
+ form .submit{
+    margin-top: 90px;
+    background-color: aqua;
+    font-size: 25px;
+    border-radius: 10px;
+    padding-top: 20px;
+
+ }
+ form .submit:hover{
+    background-color: yellow;
+    color: red;
+ }
+ .beza{
+    font-size: 30px;
+    color: black;
+    background-color: aqua;
+ }
+
+ .besu{
+    font-size: 30px;
+    color: brown;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 40px;
+
+
+ }
